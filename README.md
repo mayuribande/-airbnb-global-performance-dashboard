@@ -13,10 +13,10 @@ Power BI · Power Query · DAX · Data Modeling
 
 ## Dashboard Preview
 ![Home Page](Home-page.PNG)
-![Overview](overview.PNG)
+![Overview](overview1.PNG)
 ![Ratings](Ratings.PNG)
 ![Ratings 2](Ratings2.PNG)
-![Reviews](reviews.PNG)
+![Reviews](reviews1.PNG)
 
 ## File
 Download  [dashboard.pbix file] (https://github.com/mayuribande/-airbnb-global-performance-dashboard/releases/download/v1.0/Airbnb-performance-dasboard.pbix) and open in Power BI Desktop to explore interactively.
