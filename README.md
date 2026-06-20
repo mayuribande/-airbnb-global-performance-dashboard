@@ -12,12 +12,11 @@ A Power BI dashboard analyzing 279,000+ Airbnb listings across 10 global cities 
 Power BI · Power Query · DAX · Data Modeling
 
 ## Dashboard Preview
-![Dashboard Screenshot] 
-![Overview](overview.PNG)
 ![Home Page](Home-page.PNG)
+![Overview](overview.PNG)
 ![Ratings](Ratings.PNG)
 ![Ratings 2](Ratings2.PNG)
 ![Reviews](reviews.PNG)
 
 ## File
-Download  [dashboard.pbix file]  (https://github.com/mayuribande/airbnb-global-performance-dashboard/releases/download/v1.0/Airbnb-performance-dasboard.pbix) and open in Power BI Desktop to explore interactively.
+Download  [dashboard.pbix file] (https://github.com/mayuribande/-airbnb-global-performance-dashboard/releases/download/v1.0/Airbnb-performance-dasboard.pbix) and open in Power BI Desktop to explore interactively.
